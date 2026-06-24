@@ -48,7 +48,7 @@ public class CalculatorTest {
         assertEquals(5, result);
     }
 
-    // Exercise 3 - various assertions
+
     @Test
     public void testAssertions() {
         assertTrue(calculator.add(2, 3) > 0);
@@ -56,6 +56,5 @@ public class CalculatorTest {
         assertNotNull(calculator);
         assertNull(null);
     }
-    // write testSubtract, testMultiply, testDivide yourself
-    // also add assertTrue, assertFalse, assertNull, assertNotNull tests
+
 }
