@@ -1,4 +1,4 @@
-package exercise3;
+package DataStructures.exercise3;
 
 public class SortingService {
     Order[] orders = new Order[5];

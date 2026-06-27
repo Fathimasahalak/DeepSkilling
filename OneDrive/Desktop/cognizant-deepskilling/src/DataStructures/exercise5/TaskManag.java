@@ -1,6 +1,4 @@
-package exercise5;
-
-import java.util.LinkedList;
+package DataStructures.exercise5;
 
 public class TaskManag {
     Task head = null;

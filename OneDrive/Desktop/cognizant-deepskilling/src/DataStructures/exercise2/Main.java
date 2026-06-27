@@ -1,5 +1,4 @@
-package exercise2;
-import exercise2.Product;
+package DataStructures.exercise2;
 import java.util.*;
 import java.util.Comparator;
 

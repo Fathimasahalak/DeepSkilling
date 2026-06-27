@@ -1,4 +1,4 @@
-package exercise3;
+package DataStructures.exercise3;
 
 import java.util.Arrays;
 

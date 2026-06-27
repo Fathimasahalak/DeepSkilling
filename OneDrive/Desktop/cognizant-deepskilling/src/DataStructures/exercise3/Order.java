@@ -1,4 +1,4 @@
-package exercise3;
+package DataStructures.exercise3;
 
 public class Order {
     int orderId; String customerName; double totalPrice;

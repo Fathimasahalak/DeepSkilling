@@ -1,4 +1,4 @@
-package exercise5;
+package DataStructures.exercise5;
 
 public class Task {
     int taskId;

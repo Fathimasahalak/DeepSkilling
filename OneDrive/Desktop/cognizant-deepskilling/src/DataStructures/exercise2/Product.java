@@ -1,4 +1,4 @@
-package exercise2;
+package DataStructures.exercise2;
 
 public class Product {
     public int productId;

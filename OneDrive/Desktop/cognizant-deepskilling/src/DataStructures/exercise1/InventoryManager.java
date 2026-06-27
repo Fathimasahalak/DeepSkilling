@@ -1,5 +1,6 @@
 
-package exercise1;
+package DataStructures.exercise1;
+
 import java.util.*;
 
 public class InventoryManager{

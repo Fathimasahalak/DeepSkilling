@@ -1,8 +1,4 @@
-package exercise2;
-import java.util.*;
-
-import java.util.HashMap;
-import java.util.Map;
+package DataStructures.exercise2;
 
 public class SearchService {
     Product[] products = new Product[6];

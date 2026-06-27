@@ -1,6 +1,4 @@
-package exercise5;
-
-import exercise4.Employee;
+package DataStructures.exercise5;
 
 public class Main {
     public static void main(String[] args) {

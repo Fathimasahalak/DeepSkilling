@@ -1,4 +1,4 @@
-package exercise4;
+package DataStructures.exercise4;
 
 public class Main {
     public static void main(String[] args){
